@@ -1,0 +1,5 @@
+Recursion 
+
+A function calling itself is known as recursion.
+In the given problem, recursion can be used as the value grows in a repititive manner, which can be represented with recursion.
+

@@ -1,0 +1,14 @@
+Searching
+
+In the given exercise, we make use of two popular searching algorithms:
+1.Linear Search
+2.Binary Search
+
+Depending on the problem, the data we can choose the better one by calculating its Time Complexity
+
+Incase of Linear Search, its time Complexity is in the range of O(n).
+For Binary search, time complexity is in range of O(log n).
+Note: To use Binary Search, the data must be sorted.
+
+O() ----> Big Oh Notation
+Big Oh notation is used to describe the worst case Time complexity.
